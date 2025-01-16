@@ -1,4 +1,4 @@
-## Tableau Desktop: Powerful Data Visualization Tool
+## Tableau Desktop: Download Powerful Data Visualization Tool
 
 **Tableau Desktop** is a leading data visualization and business intelligence tool designed to help users analyze, visualize, and understand their data effortlessly. With its powerful drag-and-drop interface and robust analytics features, Tableau Desktop transforms complex datasets into actionable insights. Whether you're a data analyst, business professional, or developer, Tableau Desktop enables you to build interactive dashboards, reports, and visualizations with ease.
 
